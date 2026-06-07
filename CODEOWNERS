@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ragar005studies-hub
+/src/backend/database.py      @ragar005studies-hub
+/src/backend/routers/auth.py  @ragar005studies-hub
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ragar005studies-hub
